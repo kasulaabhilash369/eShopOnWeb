@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 207d2a5e-fb78-4250-a861-c928e96748ca
-  WEBAPP-NAME: az400-webapp-AbhiGit3
+  WEBAPP-NAME: az400-webapp-AbhiGit
 
 
 jobs:
